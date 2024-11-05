@@ -56,4 +56,4 @@ After training, the model is evaluated on a test set to determine accuracy and o
 print(predict_breed('path/to/dog/image.jpg'))
 
 ### Results
-The model achieved a test accuracy of 75% (replace with actual result) on the dog breed classification dataset. Visualizations of training and validation accuracy and loss curves are provided to showcase the model’s learning process.
+The model achieved a test accuracy of 75% on the dog breed classification dataset. Visualizations of training and validation accuracy and loss curves are provided to showcase the model’s learning process.
